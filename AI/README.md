@@ -1,4 +1,4 @@
 # AI
 
-1. 이론
+1. [이론](./ActualAndNonActualSementics.md)
 2. 구현
