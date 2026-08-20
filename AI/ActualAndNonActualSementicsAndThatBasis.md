@@ -1,8 +1,3 @@
----
-layout: post
-title: 속뜻•겉뜻 의미론과 그 기초 - ActualAndNonActualSementicsAndThatBasis
----
-
 # 속뜻•겉뜻 의미론과 그 기초 - ActualAndNonActualSementicsAndThatBasis
 
 목차
